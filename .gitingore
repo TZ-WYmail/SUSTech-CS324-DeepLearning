@@ -214,7 +214,7 @@ Desktop.ini
 # 排除日志文件
 *.log
 logs/
-
+data/
 # 排除数据库文件
 *.db
 *.sqlite
