@@ -9,8 +9,6 @@
 </p>
 
 
-
-
 ## 🎯 关于课程
 
 csdn：https://blog.csdn.net/2403_87771104?type=blog
@@ -18,17 +16,7 @@ csdn：https://blog.csdn.net/2403_87771104?type=blog
 本仓库为 **南方科技大学（SUSTech）计算机科学与工程系**  
 由 **张建国教授** 开设的《深度学习 CS324》课程资源汇总。
 
-在这里你可以找到：
-
-* 📘 课程讲义与课件
-* 🧪 实践作业与参考实现
-* 🎙️ 学生展示模板与往届优秀报告
-* 💬 期末复习 Q&A 精选
-* 🚀 在线 Demo（AI on Chips）
-
-
 ---
-
 
 ## 🔍 核心主题速览 
 
@@ -36,8 +24,6 @@ csdn：https://blog.csdn.net/2403_87771104?type=blog
 | ---- | ------ |
 | 深度强化学习 | 强化学习定义、Bellman 方程、Deep RL、Q-Learning、稳定性问题 |
 | 策略与模型 | 基于策略的深度 RL、基于模型的深度 RL |
-| 学生自选 | 最新 SOTA 架构（Vision Transformer、Diffusion Model...） |
-
 ---
 
 
